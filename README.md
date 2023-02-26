@@ -12,4 +12,24 @@ The software displays an easy to understand interface where the account holders 
 ## Why would anyone want to use the software over existing processes?
 Customers of systems bank will want to use their software as they can perform daily transfers from the ease of one click. It saves the commute money to travel to bank and one can make transfers at odd hours. This makes baking of systems faster and its services readily available to its customers.
 
+
+***
+
 ## UML DIAGRAM
+
+![UML_bank - Page 2 (2)](https://user-images.githubusercontent.com/126388847/221423745-b9f22dc8-b369-4a8f-a31a-bcce3dd10fa5.png)
+
+## GUI:
+![GUI](https://user-images.githubusercontent.com/126388847/221423815-cf73c799-a881-4792-b42f-862e3082273a.PNG) 
+## Reading admin credentials from a file
+ 
+![readFromFile](https://user-images.githubusercontent.com/126388847/221423833-5c499396-f8e0-48d7-ae00-9c3c9e0ed2e7.PNG)
+
+## Adding transfers history to an array list after reading it from file:
+ 
+
+![creatingarraylist](https://user-images.githubusercontent.com/126388847/221423837-8468c34c-64c2-4048-a93f-ed7986b2a2ea.PNG)
+
+
+
+
